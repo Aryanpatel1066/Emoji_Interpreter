@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 70%;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-bottom: 1rem;
+}
+.emoji-design {
+  width: 2rem;
+  height: 100px;
+}
